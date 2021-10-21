@@ -30,7 +30,7 @@ export default {
 };
 </script>
 <template>
-  <!-- <text1 />
+  <text1 />
   <text2 />
   <text3 />
   <text4 />
@@ -38,7 +38,7 @@ export default {
   <text6 />
   <text7 />
   <text8 />
-  <text9 /> -->
+  <text9 />
   <text10 />
   <text11 />
   <text12 />
